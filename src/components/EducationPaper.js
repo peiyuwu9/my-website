@@ -11,7 +11,7 @@ const useStyles = makeStyles((theme) => ({
     flexGrow: 1,
   },
   logoPaper: {
-    width: 300,
+    width: 350,
   },
   logoImage: {
     width: "100%",

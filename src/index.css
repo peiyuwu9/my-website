@@ -35,7 +35,7 @@ header span {
 }
 
 header p {
-  padding-top: 50vh;
+  padding-top: 55vh;
   padding-left: 4vw;
   font-size: 24px;
   max-width: 550px;
@@ -116,6 +116,10 @@ main h1.line4 {
 
 main div {
   z-index: 2;
+}
+
+section {
+  padding: 0 50px;
 }
 
 button.MuiFab-primary {
