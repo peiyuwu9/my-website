@@ -11,7 +11,7 @@
         "Plugin membership search engine in Ghost with Algolia and Zapier API tools"
       ],
       "website": "https://www.tjccny.org/",
-      "website_image": "./images/websites/tjccny.png"
+      "website_image": "./images/websites/tjccny_r.png"
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "job_title": "Web Developer",
       "jobs": ["Maintained e-commerce data on Shopline platform"],
       "website": "https://www.juntontw.com/",
-      "website_image": "./images/websites/fct.png"
+      "website_image": "./images/websites/fct_r.png"
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
         "Generated monthly sale reports to offer data-driven recommendations aligned with overall company strategies and prioritized process improvement initiatives"
       ],
       "website": "https://istarllc.net/",
-      "website_image": "./images/websites/r&s.png"
+      "website_image": "./images/websites/r&s_r.png"
     }
   ],
   "projects": [
@@ -44,7 +44,7 @@
       "time": "December 2019",
       "description":"Leaster allows service seekers and the company's providing those services a way connect and engage people who are seeking a particular service and the company's that are providing them.",
       "app_link":"https://limitless-wildwood-17474.herokuapp.com/",
-      "app_image": "./images/projects/leadster.png",
+      "app_image": "./images/projects/leadster_r.png",
       "repo":"https://github.com/Sandman105/leadster"
     },
     {
@@ -53,7 +53,7 @@
       "time": "November 2019",
       "description": "In Eats Plus Plus app, The user will have the ability to view, create new restaurants and restaurant reviews, ratings and comments. Then review the post and other restaurant reviews that are stored in database.",
       "app_link": "https://safe-plateau-43129.herokuapp.com/",
-      "app_image": "./images/projects/eats_plus_plus.png",
+      "app_image": "./images/projects/eats_plus_plus_r.png",
       "repo": "https://github.com/Sandman105/EatsPlusPlus"
     },{
       "id": 3,
@@ -61,7 +61,7 @@
       "time": "October 2019",
       "description": "Maze Quest is online game that 2 players can log in and play the mze at the same time.",
       "app_link": "https://peiyuwu9.github.io/maze-quest-duoplayers/",
-      "app_image": "./images/projects/maze_quest.png",
+      "app_image": "./images/projects/maze_quest_r.png",
       "repo": "https://github.com/peiyuwu9/maze-quest-duoplayers"
     }
   ]
