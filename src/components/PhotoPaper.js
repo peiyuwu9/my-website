@@ -24,7 +24,7 @@ export default function EducationPaper() {
         <Grid container justify="center" spacing={1}>
           <Grid item sm={8}>
             <img
-              src="./images/photos/firework.jpg"
+              src="./images/photos/firework.png"
               alt="Firework"
               className={classes.photoImage}
             />
@@ -35,21 +35,21 @@ export default function EducationPaper() {
           </Grid>
           <Grid item sm={12}>
             <img
-              src="./images/photos/kyoto.jpg"
+              src="./images/photos/kyoto.png"
               alt="Kyoto"
               className={classes.photoImage}
             />
           </Grid>
           <Grid item sm={6}>
             <img
-              src="./images/photos/london.jpg"
+              src="./images/photos/london.png"
               alt="London"
               className={classes.photoImage}
             />
           </Grid>
           <Grid item sm={6}>
             <img
-              src="./images/photos/route1.jpg"
+              src="./images/photos/route1.png"
               alt="Route 1"
               className={classes.photoImage}
             />
