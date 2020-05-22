@@ -1,0 +1,68 @@
+{
+  "working_experience": [
+    {
+      "id": 1,
+      "company": "TJCCNY",
+      "time": "January 2020 - Present",
+      "job_title": "Web Developer",
+      "jobs": [
+        "Maintaining blog on Ghost (WordPress like) platform",
+        "Plugin membership function by working with Ghost support team",
+        "Plugin membership search engine in Ghost with Algolia and Zapier API tools"
+      ],
+      "website": "https://www.tjccny.org/",
+      "website_image": "./images/websites/tjccny.png"
+    },
+    {
+      "id": 2,
+      "company": "Feng Ching Tang",
+      "time": "December 2019 - Present",
+      "job_title": "Web Developer",
+      "jobs": ["Maintained e-commerce data on Shopline platform"],
+      "website": "https://www.juntontw.com/",
+      "website_image": "./images/websites/fct.png"
+    },
+    {
+      "id": 3,
+      "company": "iStar Roman & Sunstone",
+      "time": "September 2015 - August 2019",
+      "job_title": "Sourcing Assistant",
+      "jobs": [
+        "Established standard operating procedures and document templates with formula encoded in the files to optimize production processes 50% faster",
+        "Established logistics policy including mode and carrier by analyzing history data that saved 5-10% freight cost for business",
+        "Review planners’ forecast and warehouse stock reports to minimize liability inventory by 20%",
+        "Generated monthly sale reports to offer data-driven recommendations aligned with overall company strategies and prioritized process improvement initiatives"
+      ],
+      "website": "https://istarllc.net/",
+      "website_image": "./images/websites/r&s.png"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "project":"Leaster",
+      "time": "December 2019",
+      "description":"Leaster allows service seekers and the company's providing those services a way connect and engage people who are seeking a particular service and the company's that are providing them.",
+      "app_link":"https://limitless-wildwood-17474.herokuapp.com/",
+      "app_image": "./images/projects/leadster.png",
+      "repo":"https://github.com/Sandman105/leadster"
+    },
+    {
+      "id": 2,
+      "project": "Eats Plus Plus",
+      "time": "November 2019",
+      "description": "In Eats Plus Plus app, The user will have the ability to view, create new restaurants and restaurant reviews, ratings and comments. Then review the post and other restaurant reviews that are stored in database.",
+      "app_link": "https://safe-plateau-43129.herokuapp.com/",
+      "app_image": "./images/projects/eats_plus_plus.png",
+      "repo": "https://github.com/Sandman105/EatsPlusPlus"
+    },{
+      "id": 3,
+      "project": "Maze Quest",
+      "time": "October 2019",
+      "description": "Maze Quest is online game that 2 players can log in and play the mze at the same time.",
+      "app_link": "https://peiyuwu9.github.io/maze-quest-duoplayers/",
+      "app_image": "./images/projects/maze_quest.png",
+      "repo": "https://github.com/peiyuwu9/maze-quest-duoplayers"
+    }
+  ]
+}
