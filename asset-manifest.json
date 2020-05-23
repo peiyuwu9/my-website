@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-website/static/css/main.c5acfa15.chunk.css",
+    "main.css": "/my-website/static/css/main.6d658edd.chunk.css",
     "main.js": "/my-website/static/js/main.1d1d0a5a.chunk.js",
     "main.js.map": "/my-website/static/js/main.1d1d0a5a.chunk.js.map",
     "runtime-main.js": "/my-website/static/js/runtime-main.dac0fb3d.js",
@@ -8,16 +8,16 @@
     "static/js/2.0dc753bd.chunk.js": "/my-website/static/js/2.0dc753bd.chunk.js",
     "static/js/2.0dc753bd.chunk.js.map": "/my-website/static/js/2.0dc753bd.chunk.js.map",
     "index.html": "/my-website/index.html",
-    "precache-manifest.b15afd8745a2db282c76a2cb59da9f76.js": "/my-website/precache-manifest.b15afd8745a2db282c76a2cb59da9f76.js",
+    "precache-manifest.7c0fa20ccfc72c36d7cf32c0da032f3b.js": "/my-website/precache-manifest.7c0fa20ccfc72c36d7cf32c0da032f3b.js",
     "service-worker.js": "/my-website/service-worker.js",
-    "static/css/main.c5acfa15.chunk.css.map": "/my-website/static/css/main.c5acfa15.chunk.css.map",
+    "static/css/main.6d658edd.chunk.css.map": "/my-website/static/css/main.6d658edd.chunk.css.map",
     "static/js/2.0dc753bd.chunk.js.LICENSE.txt": "/my-website/static/js/2.0dc753bd.chunk.js.LICENSE.txt",
     "static/media/index.css": "/my-website/static/media/osaka.746078c6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.dac0fb3d.js",
     "static/js/2.0dc753bd.chunk.js",
-    "static/css/main.c5acfa15.chunk.css",
+    "static/css/main.6d658edd.chunk.css",
     "static/js/main.1d1d0a5a.chunk.js"
   ]
 }
