@@ -149,7 +149,7 @@ button.MuiSpeedDialAction-fab {
 
   main h1.headline {
     font-size: 2rem;
-    top: 20px;
+    top: 35px;
   }
 
   main h1.headlineBase {
@@ -180,7 +180,7 @@ button.MuiSpeedDialAction-fab {
 @media (min-width: 481px) and (max-width: 768px) {
   main h1.headline {
     font-size: 2rem;
-    top: 40px;
+    top: 45px;
   }
 
   main h1.headlineBase {
