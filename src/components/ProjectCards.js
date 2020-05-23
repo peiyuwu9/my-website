@@ -14,7 +14,7 @@ const useStyles = makeStyles(() => ({
   },
 }));
 
-export default function WorkingExperienceCards(props) {
+export default function ProjectCards() {
   const classes = useStyles();
   return (
     <Grid container direction="row" className={classes.root}>

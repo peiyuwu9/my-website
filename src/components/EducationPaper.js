@@ -15,7 +15,7 @@ const useStyles = makeStyles((theme) => ({
     textAlign: "center",
   },
   logoImage: {
-    width: "90%",
+    width: 300,
   },
   paperContent: {
     paddingBottom: "20px",

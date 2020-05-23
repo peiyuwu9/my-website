@@ -116,31 +116,6 @@ main div {
   z-index: 2;
 }
 
-button.MuiFab-primary {
-  background-color: #85a392;
-}
-
-button.MuiFab-primary:hover {
-  background-color: #85a392;
-}
-
-div.MuiSpeedDial-root {
-  align-items: flex-end;
-}
-
-button.speed-dial-icon-button {
-  position: relative;
-  top: -2px;
-}
-
-button.MuiFab-sizeSmall {
-  width: 55px;
-  height: 55px;
-}
-
-button.MuiSpeedDialAction-fab {
-  margin: 10px 0 0 0;
-}
 
 @media only screen and (max-width: 480px) {
   header p {
