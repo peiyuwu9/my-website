@@ -145,6 +145,7 @@ button.MuiSpeedDialAction-fab {
 @media only screen and (max-width: 480px) {
   header p {
     padding-top: 50vh;
+    color: #f4f4f4;
   }
 
   main h1.headline {
@@ -168,7 +169,7 @@ button.MuiSpeedDialAction-fab {
 
   main h1.line3 {
     top: 10px;
-    left: 5px;
+    left: 0px;
   }
 
   main h1.line4 {
@@ -178,6 +179,11 @@ button.MuiSpeedDialAction-fab {
 }
 
 @media (min-width: 481px) and (max-width: 768px) {
+  header p {
+    padding-top: 50vh;
+    color: #f4f4f4;
+  }
+  
   main h1.headline {
     font-size: 2rem;
     top: 45px;
