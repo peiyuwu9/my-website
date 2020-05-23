@@ -27,6 +27,7 @@ header {
   background-image: url(./images/osaka.jpg);
   background-size: cover;
   background-attachment: fixed;
+  background-position-x: center;
   opacity: 0.9;
 }
 
@@ -40,7 +41,7 @@ header p {
   font-size: 24px;
   max-width: 550px;
   opacity: 1;
-  animation: wordDisplay 2s;
+  animation: wordDisplay 4s;
 }
 
 @keyframes wordDisplay {
@@ -55,71 +56,62 @@ header p {
 main {
   background-color: #f4f4f4;
   padding: 10px;
-  position: relative;
 }
 
 main section {
-  margin-top: 50px;
+  max-width: 1200px;
+  margin: 50px auto 0 auto;
 }
 
-main h1.leftSide {
-  font-size: 48px;
-  position: relative;
-  top: 70px;
-  left: 50px;
+main h1.headline {
+  font-size: 3rem;
   z-index: 1;
 }
 
-main h1.leftSideOutline {
-  font-size: 72px;
-  position: relative;
-  top: 30px;
-  left: 90px;
+main h1.headlineBase {
+  font-size: 4rem;
   color: #f4f4f4;
   z-index: 0;
 }
 
 main h1.rightSide {
   text-align: right;
-  font-size: 48px;
-  position: relative;
-  top: 70px;
-  left: -50px;
-  z-index: 1;
 }
 
 main h1.rightSideOutline {
   text-align: right;
-  font-size: 72px;
-  position: relative;
-  top: 30px;
-  left: -90px;
-  color: #f4f4f4;
-  z-index: 0;
 }
 
 main h1.line1 {
+  position: relative;
+  top: 20px;
+  left: -30px;
   text-shadow: -1px 0 #f37121, 0 1px #f37121, 1px 0 #f37121, 0 -1px #f37121;
 }
 
 main h1.line2 {
+  position: relative;
+  top: 20px;
+  left: 30px;
   text-shadow: -1px 0 #16817a, 0 1px #16817a, 1px 0 #16817a, 0 -1px #16817a;
 }
 
 main h1.line3 {
+  position: relative;
+  top: 30px;
+  left: 20px;
   text-shadow: -1px 0 #f19292, 0 1px #f19292, 1px 0 #f19292, 0 -1px #f19292;
 }
 
 main h1.line4 {
-  text-shadow: -1px 0 #035aa6, 0 1px #035aa6, 1px 0 #035aa6, 0 -1px #035aa6;;
+  position: relative;
+  top: 30px;
+  left: -20px;
+  text-shadow: -1px 0 #035aa6, 0 1px #035aa6, 1px 0 #035aa6, 0 -1px #035aa6;
 }
 
 main div {
   z-index: 2;
-}
-
-section {
-  padding: 0 50px;
 }
 
 button.MuiFab-primary {
@@ -136,5 +128,38 @@ div.MuiSpeedDial-root {
 
 button.speed-dial-icon-button {
   position: relative;
-  top: -3px;
+  top: -2px;
+}
+
+button.MuiFab-sizeSmall{
+  width: 55px;
+  height: 55px;
+}
+
+button.MuiSpeedDialAction-fab {
+  margin: 10px 0 0 0;
+}
+
+@media only screen and (max-width: 480px) {
+  header p {
+    padding-top: 50vh;
+  }
+
+  main h1.headline {
+    font-size: 1rem;
+  }
+
+  main h1.headlineBase {
+    font-size: 2rem;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  main h1.headline {
+    font-size: 2rem;
+  }
+
+  main h1.headlineBase {
+    font-size: 3rem;
+  }
 }

@@ -18,23 +18,25 @@ function App() {
       </header>
       <main>
         <section>
-          <h1 className="leftSide">WORKING EXPERIENCES</h1>
-          <h1 className="leftSideOutline line1">WORKING EXPERIENCES</h1>
+          <h1 className="leftSide headline">WORKING EXPERIENCES</h1>
+          <h1 className="leftSideOutline headlineBase line1">
+            WORKING EXPERIENCES
+          </h1>
           <WorkingExperienceCard />
         </section>
         <section>
-          <h1 className="rightSide">PROJECTS</h1>
-          <h1 className="rightSideOutline line2">PROJECTS</h1>
+          <h1 className="rightSide headline">PROJECTS</h1>
+          <h1 className="rightSideOutline headlineBase line2">PROJECTS</h1>
           <ProjectCards />
         </section>
         <section>
-          <h1 className="leftSide">EDUCATION</h1>
-          <h1 className="leftSideOutline line3">EDUCATION</h1>
+          <h1 className="leftSide headline">EDUCATION</h1>
+          <h1 className="leftSideOutline headlineBase line3">EDUCATION</h1>
           <EducationPaper />
         </section>
         <section>
-          <h1 className="rightSide">MY GALLERY</h1>
-          <h1 className="rightSideOutline line4">MY GALLERY</h1>
+          <h1 className="rightSide headline">MY GALLERY</h1>
+          <h1 className="rightSideOutline headlineBase line4">MY GALLERY</h1>
           <PhotoPaper />
         </section>
         <SpeedDialIcon />

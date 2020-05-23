@@ -22,7 +22,7 @@ const actions = [
     icon: (
       <a href="https://www.linkedin.com/in/peiyu-wu-109a048b/">
         <IconButton aria-label="LinkedIn" className="speed-dial-icon-button">
-          <LinkedInIcon />
+          <LinkedInIcon fontSize={"large"} />
         </IconButton>
       </a>
     ),
@@ -32,7 +32,7 @@ const actions = [
     icon: (
       <a href="https://github.com/peiyuwu9">
         <IconButton aria-label="GitHub" className="speed-dial-icon-button">
-          <GitHubIcon />
+          <GitHubIcon fontSize={"large"} />
         </IconButton>
       </a>
     ),
