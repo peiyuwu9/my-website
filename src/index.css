@@ -157,20 +157,23 @@ button.MuiSpeedDialAction-fab {
   }
 
   main h1.line1 {
-    top: 10px;
-    left: -20px;
+    top: 5px;
+    left: -10px;
   }
+
   main h1.line2 {
-    top: 10px;
-    left: 20px;
-  }
-  main h1.line3 {
-    top: 20px;
+    top: 5px;
     left: 10px;
   }
+
+  main h1.line3 {
+    top: 10px;
+    left: 5px;
+  }
+
   main h1.line4 {
-    top: 20px;
-    left: -10px;
+    top: 10px;
+    left: -5px;
   }
 }
 
@@ -185,19 +188,23 @@ button.MuiSpeedDialAction-fab {
   }
 
   main h1.line1 {
-    top: 5px;
-    left: -10px;
+    top: 10px;
+    left: -20px;
   }
+
   main h1.line2 {
-    top: 5px;
+    top: 10px;
+    left: 20px;
+  }
+
+  main h1.line3 {
+    top: 20px;
     left: 10px;
   }
-  main h1.line3 {
-    top: 10px;
-    left: 5px;
-  }
+
   main h1.line4 {
-    top: 10px;
-    left: -5px;
+    top: 20px;
+    left: -10px;
   }
+
 }
