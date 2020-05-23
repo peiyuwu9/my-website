@@ -144,7 +144,7 @@ button.MuiSpeedDialAction-fab {
 
 @media only screen and (max-width: 480px) {
   header p {
-    padding-top: 50vh;
+    padding-top: 40vh;
     color: #f4f4f4;
   }
 
