@@ -12,12 +12,13 @@ const useStyles = makeStyles((theme) => ({
   },
   logoPaper: {
     width: 350,
+    textAlign: "center",
   },
   logoImage: {
-    width: "100%",
+    width: "90%",
   },
   paperContent: {
-    padding: "16px 16px 24px",
+    paddingBottom: "20px",
   },
 }));
 
