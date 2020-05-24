@@ -28,10 +28,13 @@ const theme = createMuiTheme({
     MuiFab: {
       primary: {
         backgroundColor: "#85a392",
-        '&:hover': {
+        "&:hover": {
           backgroundColor: "#85a392",
-        }
-      }
+        },
+        "&:focus": {
+          backgroundColor: "#85a392",
+        },
+      },
     },
     MuiIconButton: {
       root: {
